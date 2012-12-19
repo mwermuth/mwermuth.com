@@ -220,7 +220,32 @@ width: 100%;
 }
 
 
+#log-content {
+margin-bottom:40px;
 
+}
+
+div#log-content div.full:nth-child(even) {
+ background: #FFFFFF;
+}
+div#log-content div.full:nth-child(odd) {
+ background:#222222;
+ color:#ffffff;
+}
+
+.link-post{
+color: #71fc8b;
+}
+
+.post{
+margin-top:40px;
+margin-bottom:40px;
+}
+
+span.date{
+font-size:18px;
+
+}
 
 .fade-in{
 -webkit-animation-name: reset, fade-in;
