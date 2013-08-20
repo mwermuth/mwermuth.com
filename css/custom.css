@@ -88,6 +88,16 @@ text-align: center;
 }
 
 
+#offer{
+	text-align:center;
+	
+}
+
+#offer ul li{
+	list-style:none;
+	font-size:18px;
+}
+
 /*PORTFOLIO*/
 
 .isotope-item { 
